@@ -2,7 +2,7 @@
  zope.testrunner Changelog
 ===========================
 
-8.2 (unreleased)
+8.2 (2026-01-23)
 ================
 
 - Remove support for Python 3.9.

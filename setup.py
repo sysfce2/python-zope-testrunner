@@ -21,7 +21,7 @@ import os
 from setuptools import setup
 
 
-version = '8.2.dev0'
+version = '8.2'
 
 INSTALL_REQUIRES = [
     'zope.exceptions',
